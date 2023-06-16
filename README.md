@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <ul>
-    <li> <a href="linkedin.com/in/santiagonc">Linkedin</a> </li>
+    <li> <a href="www.linkedin.com/in/santiagonc">Linkedin</a> </li>
   </ul>
 </p>
 
