@@ -3,10 +3,13 @@
 
 - 📫 How to reach me **santiagocahum25@gmail.com**
 
-- 📄 Know about my experiences [I am a student of Computer Systems Engineering with expertise in web development using technologies such as PHP, JavaScript, HTML, CSS, and Bootstrap. I am experienced in utilizing frameworks like Yii2 and proficient in working with relational databases like MySQL and SQLite. Additionally, I am experienced in version control systems using Git. I also have knowledge in Java and Python, employing the object-oriented programming paradigm. I am actively seeking opportunities to gain experience in the software development sector, where I can learn and apply various technologies](I am a student of Computer Systems Engineering with expertise in web development using technologies such as PHP, JavaScript, HTML, CSS, and Bootstrap. I am experienced in utilizing frameworks like Yii2 and proficient in working with relational databases like MySQL and SQLite. Additionally, I am experienced in version control systems using Git. I also have knowledge in Java and Python, employing the object-oriented programming paradigm. I am actively seeking opportunities to gain experience in the software development sector, where I can learn and apply various technologies)
+- 📄 Know about my experiences I am a student of Computer Systems Engineering with expertise in web development using technologies such as PHP, JavaScript, HTML, CSS, and Bootstrap. I am experienced in utilizing frameworks like Yii2 and proficient in working with relational databases like MySQL and SQLite. Additionally, I am experienced in version control systems using Git. I also have knowledge in Java and Python, employing the object-oriented programming paradigm. I am actively seeking opportunities to gain experience in the software development sector, where I can learn and apply various technologies
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <ul>
+    <li> <a href="linkedin.com/in/santiagonc">Linkedin</a> </li>
+  </ul>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
